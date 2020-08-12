@@ -1,0 +1,54 @@
+h1 {
+  font-family: 'Lato', sans-serif;
+  color: black;
+  font-size: 17;
+  font-weight: 300;
+}
+body {background-color: aliceblue;}
+
+#logo {
+  height: 110px;
+  border-radius: 50%;
+  margin: auto;
+}
+
+
+p {
+  font-family: 'Lato', sans-serif;font-family: 'Lato', sans-serif;
+  color: #cccccc;
+  font-size: 17;
+  font-weight: 500;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;;
+  font-size: 23px;
+  font-weight: 300;
+  color: black;
+}
+
+#webpage-link {
+  text-decoration: none;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  color: rgba(0, 0, 0, 0.589);
+}
+
+#webpage-link:hover {
+  color: slategray;
+}
+.social{display: inline-flex;
+  list-style-type: none;}
+
+
+.container {
+  text-align: center;
+}
+.fa-twitter{margin-left: 20px;}
+.logo {margin-left: 50px;}
+.img_mn {
+  width:700px;
+  height: auto;
+  margin: 0 auto;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);}
